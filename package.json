@@ -30,6 +30,6 @@
         "glob": "^7.1.7",
         "mongoose": "^6.3.6",
         "nodemon": "^2.0.12",
-        "pretty-ms": "^7.0.1"
+        "pretty-ms": "^8.0.0"
     }
 }
